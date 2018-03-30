@@ -10,7 +10,7 @@ The project can be downloaded [here](https://github.com/huynhjjk/ud036_StarterCo
 ## What's included
 The following files will be included in the download:
 ```
-movie-trailer-website/
+ud036_StarterCode/
 ├── entertainment_center.py
 ├── fresh_tomatoes.html
 ├── fresh_tomatoes.py
