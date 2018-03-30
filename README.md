@@ -11,11 +11,11 @@ The project can be downloaded [here](https://github.com/huynhjjk/ud036_StarterCo
 The following files will be included in the download:
 ```
 ud036_StarterCode/
+├── README.md
 ├── entertainment_center.py
 ├── fresh_tomatoes.html
 ├── fresh_tomatoes.py
-├── media.py
-└── README.md
+└── media.py
 ```
 
 ## Authors
