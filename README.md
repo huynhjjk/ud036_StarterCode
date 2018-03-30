@@ -15,9 +15,9 @@ The following files will be included in the download:
 ```
 movie-trailer-website/
 ├── entertainment_center.py
-├── media.py
-├── fresh_tomatoes.py
 ├── fresh_tomatoes.html
+├── fresh_tomatoes.py
+├── media.py
 └── README.md
 ```
 
