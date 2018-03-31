@@ -1,15 +1,15 @@
 import webbrowser
 
-
 """ Class for showing a movie """
-class Movie():
 
+
+class Movie():
     """
-        Initalize a Movie object
-        Attributes:
-            title: A string of the movie's title
-            poster_url: A string of the URL to the movie's poster image
-            trailer_youtube_url: A string of theURL to the movie's youtube trailer
+    Initalize a Movie object
+    Attributes:
+        title: A string of the movie's title
+        poster_url: A string of the URL to the movie's poster image
+        trailer_youtube_url: A string of the URL to the movie's youtube trailer
     """
     def __init__(self, title, poster_image_url, trailer_youtube_url):
         self.title = title
