@@ -22,7 +22,7 @@ Clone the project or download the zip [here](https://github.com/huynhjjk/ud036_S
 
 On command line:
 1. Open the project directory
-2. Open the file ```python entertainment_center.py```
+2. Open the file ```entertainment_center.py```
 3. Click Run Module
 
 ## Authors
